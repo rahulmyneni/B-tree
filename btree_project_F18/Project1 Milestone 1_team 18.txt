@@ -1,0 +1,6 @@
+Project Status:
+We have succefully implemented the insertion of entries into the b+ tree and we were able to split pages.
+File Descriptions:
+We have modified BTFile.java and added insert and _insert methods.
+Logical Errors:
+We had problem with page splitting initially. 
